@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://business-audit-ekb.ru/sitemap.xml
